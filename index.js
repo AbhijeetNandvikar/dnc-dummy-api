@@ -1,5 +1,6 @@
 const express = require('express')
 const app = express()
+var port =  process.env.PORT || 3000;
  
 app.get('/', function (req, res) {
   res.send('Hello from D&C \n all the best for Task')
@@ -64,7 +65,7 @@ app.get('/getEvents', function (req, res) {
     res.json(JSONData);
   })
  
-app.listen(8080,function(req,res){
+app.listen(port,function(req,res){
 
 console.log("Running...");
 
