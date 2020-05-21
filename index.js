@@ -3,8 +3,8 @@ const app = express()
 var port =  process.env.PORT || 3000;
  
 app.get('/', function (req, res) {
-  res.send('Hello from D&C \n all the best for Task')
-  res.close();
+  res.sendFile('./index.html',{ root: __dirname });
+
 })
 
 app.get('/getEvents', function (req, res) {
