@@ -58,7 +58,44 @@ app.get('/getEvents', function (req, res) {
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "duration": "3hrs",
       "timestamp":1590043272
-    }
+    },
+     {
+      "type": "webinar",
+      "title": "End of Nodejs - Deno ?",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
+      "duration": "2hrs",
+      "timestamp":1590660000
+    },
+    {
+      "type": "workshop",
+      "title": "Building PWA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
+      "location": "WeWork Raheja Platinum",
+      "timestamp":1590769800
+
+    },
+    {
+      "type": "webinar",
+      "title": "Lets Explore Unreal Engine",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
+      "duration": "4hrs",
+      "timestamp":1590856200
+    },
+    {
+      "type": "workshop",
+      "title": "Design Systems and Future of Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
+      "location": "Insider Lowerparel",
+      "timestamp":1591038000
+
+    },
+    {
+      "type": "webinar",
+      "title": "Lets Explore Flutter Web",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
+      "duration": "4hrs",
+      "timestamp":1591376400
+    },
     ]
     };
 
