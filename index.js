@@ -76,7 +76,7 @@ app.get('/getEvents', function (req, res) {
       "title": "Building PWA",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "location": "WeWork Raheja Platinum",
-      "timestamp":1590769800
+      "timestamp":1591372800
 
     },
     {
@@ -84,14 +84,14 @@ app.get('/getEvents', function (req, res) {
       "title": "Lets Explore Unreal Engine",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "duration": "4hrs",
-      "timestamp":1590856200
+      "timestamp":1591437600
     },
     {
       "type": "workshop",
       "title": "Design Systems and Future of Design",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "location": "Insider Lowerparel",
-      "timestamp":1591038000
+      "timestamp":1591549200
 
     },
     {
@@ -99,56 +99,56 @@ app.get('/getEvents', function (req, res) {
       "title": "Lets Explore Flutter Web",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "duration": "4hrs",
-      "timestamp":1591376400
+      "timestamp":1591716600
     },
     {
       "type": "webinar",
       "title": "Lorem ipsum dolor sit amet",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "duration": "4hrs",
-      "timestamp":1591376400
+      "timestamp":1591809300
     },
     {
       "type": "webinar",
       "title": "Lorem ipsum dolor sit amet",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "duration": "4hrs",
-      "timestamp":1591376400
+      "timestamp":1591873200
     },
     {
       "type": "webinar",
       "title": "Lorem ipsum dolor sit amet",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "duration": "4hrs",
-      "timestamp":1591376400
+      "timestamp":1592046000
     },
     {
       "type": "webinar",
       "title": "Lorem ipsum dolor sit amet",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "duration": "4hrs",
-      "timestamp":1591376400
+      "timestamp":1592132400
     },
     {
       "type": "webinar",
       "title": "Lorem ipsum dolor sit amet",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "duration": "4hrs",
-      "timestamp":1591376400
+      "timestamp":1592218800
     },
     {
       "type": "webinar",
       "title": "Lorem ipsum dolor sit amet",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "duration": "4hrs",
-      "timestamp":1591376400
+      "timestamp":1592305200
     },
     {
       "type": "webinar",
       "title": "Lorem ipsum dolor sit amet",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Cras adipiscing enim eu turpis egestas pretium aenean. Amet nulla facilisi morbi tempus. Adipiscing enim eu turpis egestas. Vitae congue eu consequat ac felis donec et odio pellentesque. A arcu cursus vitae congue mauris rhoncus aenean vel. Tristique risus nec feugiat in fermentum. Tortor vitae purus faucibus ornare. Porta nibh venenatis cras sed felis. Nunc sed velit dignissim sodales ut.",
       "duration": "4hrs",
-      "timestamp":1591376400
+      "timestamp":1592391600
     },
     ]
     };
